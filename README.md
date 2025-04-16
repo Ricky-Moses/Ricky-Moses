@@ -2,7 +2,7 @@
 
 ##  🧙‍♂️ Code Caster | Full-Stack Sorcerer | DOM Dominator   ##
 
-### Welcom To My Otaku Code Domain 😃😃 ###
+### Welcome To My Otaku Code Domain 😃😃 ###
 Hey there! I’m **Ricky Moses🤗**, a passionate web developer who codes with the energy of **Asta💪**, learns like **Ayanokoji🧠**, and builds full-stack magic like **Rimuru🏗️** every project.  <br /> <br />
 
 ### Who Am I? 🤔 ###
@@ -44,4 +44,6 @@ Hey there! I’m **Ricky Moses🤗**, a passionate web developer who codes with 
 > ***—Ricky, The One Who Engineers In Silence And Ships With Impact***
 
 ### Let's Connect 🤝 ###
-- 🖇️ Portfolio
+- 🖇️ **Portfolio**: [Step into my domain — where every pixel tells a story]()
+- 💼 **Linkedin**: [Let’s network like ninjas planning the final arc]()
+- 📧 **Email**: Summon me with your message 🔫(rickymoses08122003@gmail.com)
