@@ -51,5 +51,5 @@ Hey there! I’m **Ricky Moses🤗**, a passionate web developer who codes with 
 - 💼 **Linkedin**: [Let’s network like ninjas planning the final arc]()
 - 📧 **Email**: Summon me with your message 🔫(rickymoses08122003@gmail.com)
 
-### ⭐️ DROP A STAR OR FACE MY DOMAIN EXPANSION 😈 ###
+### ⭐️ DROP A STAR OR FACE MY DOMAIN EXPANSION 🤞 😈 ###
 *(tch... unless you’re siding with the Titans 💀)*
