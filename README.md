@@ -28,3 +28,13 @@ Hey there! I’m **Ricky🤗**, a passionate web developer who codes with the en
 | 🌪️ Weather App | React + Axios – real-time data storm, like Veldora’s fury ⚡🌩️ |
 | 🍗 Calorie Calculator | React + Styled Components – Milim-level stamina tracker 💪🔥 |
 | 📋 Todo List | Node.js + Express + MongoDB – dark and precise like Diablo’s to-do scrolls 🧾🧠 |
+
+### 😁 Fun Fact ###
+> I don't write code
+> I reshape the code like fang yuan
+> Bear the weight of code like eren yeager
+> Shatter the code logic realm like Gojo Satoru
+> Rule the cursed(code) like Sukuna
+> My IDE is my battlefeild, my logic is my blade,
+> And every bugs... is another enemy to purge.
+> --
