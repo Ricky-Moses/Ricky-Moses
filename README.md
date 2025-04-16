@@ -29,10 +29,10 @@ Hey there! I’m **Ricky Moses🤗**, a passionate web developer who codes with 
 ### My Quest Logs 🏹 (Projects) ###
 | 🧪 Quest | 📝 Quest Information |
 |---------|----------------------|
-| ☕ [Coffee Bar Website](https://github.com/Ricky-Moses/coffee-bar) | Built with React + Bootstrap – as chill as Rimuru’s Tempest Cafe ☕🏞️ |
-| 🌪️ Weather App | React + Axios – real-time data storm, like Veldora’s fury ⚡🌩️ |
-| 🍗 Calorie Calculator | React + Styled Components – Milim-level stamina tracker 💪🔥 |
-| 📋 Todo List | Node.js + Express + MongoDB – dark and precise like Diablo’s to-do scrolls 🧾🧠 |
+| ☕ [Coffee Bar Website](https://ricky-moses.github.io/Coffee-Shop-React/) | Built with React + Bootstrap – as chill as Rimuru’s Tempest Cafe ☕🏞️ |
+| 🌪️ [Weather App](https://ricky-moses.github.io/React-Projects/) | React + Axios – real-time data storm, like Veldora’s fury ⚡🌩️ |
+| 🍗 [Calorie Calculator](https://ricky-moses.github.io/React-Projects/) | React + Styled Components – Milim-level stamina tracker 💪🔥 |
+| 📋 [Todo List](https://ricky-moses.github.io/React-Projects/) | Node.js + Express + MongoDB – dark and precise like Diablo’s to-do scrolls 🧾🧠 |
 
 ### Fun Fact 😁 ###
 > [!Caution]
@@ -47,8 +47,8 @@ Hey there! I’m **Ricky Moses🤗**, a passionate web developer who codes with 
 > ***—Ricky, The One Who Engineers In Silence And Ships With Impact***
 
 ### Let's Connect 🤝 ###
-- 🖇️ **Portfolio**: [Step into my domain — where every pixel tells a story]()
-- 💼 **Linkedin**: [Let’s network like ninjas planning the final arc]()
+- 🖇️ **Portfolio**: [Step into my domain — where every pixel tells a story](https://ricky-moses.github.io/Ricky-Portfolio/)
+- 💼 **Linkedin**: [Let’s network like ninjas planning the final arc](https://www.linkedin.com/in/rickymoses08/)
 - 📧 **Email**: Summon me with your message 🔫(rickymoses08122003@gmail.com)
 
 ### ⭐️ DROP A STAR OR FACE MY DOMAIN EXPANSION 🤞 😈 ###
