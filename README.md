@@ -12,7 +12,7 @@ Hey there! I’m **Ricky Moses🤗**, a passionate web developer who codes with 
 - 🗡️ I slay bugs like **Asta swings his anti-magic sword**  
 - 💀 Learning Node.js like **I’m raiding a dungeon solo**  
 - 👁️ Exploring APIs like **I’m trapped in a return-by-death loop — every failure, a lesson; every retry, a step closer to mastering the cursed technique.**
-<br />
+
 
 ### Tech Stack ⚔️ ###
 <div align="start"> <!-- Frontend --> <img width="50" height="50" src="https://img.icons8.com/fluency/50/html-5.png" alt="html-5"/> <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/> <img width="43" height="43" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo"/> <img width="50" height="50" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/> <!-- Backend --> <img width="50" height="50" src="https://img.icons8.com/fluency/50/node-js.png" alt="node-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/> </div>
@@ -21,7 +21,7 @@ Hey there! I’m **Ricky Moses🤗**, a passionate web developer who codes with 
 | Area | Stack / Tools |
 | -----| --------------|
 | 🌀 Frontend Sorcery | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> |
-| 🔮 Backend Mastery | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> |
+| 🔮 Backend Black Magic | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> |
 | 🗂️ Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> |
 | 🔗 Deployment Magic | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> |
 | 🧠 IDE: My Grimoire in dark mode | <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
