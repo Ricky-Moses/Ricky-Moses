@@ -12,16 +12,18 @@ Hey there! I’m **Ricky Moses🤗**, a passionate web developer who codes with 
 - 🗡️ I slay bugs like **Asta swings his anti-magic sword**  
 - 💀 Learning Node.js like **I’m raiding a dungeon solo**  
 - 👁️ Exploring APIs like **I’m trapped in a return-by-death loop — every failure, a lesson; every retry, a step closer to mastering the cursed technique.**
-- ⚔️ Tech Stack: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `MongoDB`, `Bootstrap`, `Tailwind` <br />
+<br />
+⚔️ Tech Stack
+<div align="center"> <!-- Frontend --> <img width="50" height="50" src="https://img.icons8.com/fluency/50/html-5.png" alt="html-5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <!-- Backend --> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> </div>
 
 ### My Cursed Weapons🔪 (Tool & Tech) ###
 | Area | Stack / Tools |
 | -----| --------------|
-| 🌀 Frontend Sorcery | `React`, `Sass`, `Tailwind CSS`, `Styled Components`, `Bootstrap` |
-| 🔮 Backend Mastery | `Node.js`, `Express.js` |
-| 🗂️ Database | `MongoDB` |
-| 🔗 Deployment Magic | `GitHub` |
-| 🧠 IDE: VS Code | My Grimoire in dark mode |
+| 🌀 Frontend Sorcery | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> |
+| 🔮 Backend Mastery | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> |
+| 🗂️ Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> |
+| 🔗 Deployment Magic | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> |
+| 🧠 IDE: My Grimoire in dark mode | <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
 
 ### My Quest Logs 🏹 (Projects) ###
 | 🧪 Quest | 📝 Quest Information |
@@ -47,3 +49,6 @@ Hey there! I’m **Ricky Moses🤗**, a passionate web developer who codes with 
 - 🖇️ **Portfolio**: [Step into my domain — where every pixel tells a story]()
 - 💼 **Linkedin**: [Let’s network like ninjas planning the final arc]()
 - 📧 **Email**: Summon me with your message 🔫(rickymoses08122003@gmail.com)
+
+### ⭐️ DROP A STAR OR FACE MY DOMAIN EXPANSION 😈 ###
+*(tch... unless you’re siding with the Titans 💀)*
