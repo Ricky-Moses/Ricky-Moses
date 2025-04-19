@@ -30,9 +30,7 @@ Hey there! I’m **Ricky Moses🤗**, a passionate web developer who codes with 
 | 🧪 Quest | 📝 Quest Information |
 |---------|----------------------|
 | ☕ [Coffee Bar Website](https://ricky-moses.github.io/Coffee-Shop-React/) | Built with React + Bootstrap – as chill as Rimuru’s Tempest Cafe ☕🏞️ |
-| 🌪️ [Weather App](https://ricky-moses.github.io/React-Projects/) | React + Axios – real-time data storm, like Veldora’s fury ⚡🌩️ |
-| 🍗 [Calorie Calculator](https://ricky-moses.github.io/React-Projects/) | React + Styled Components – Milim-level stamina tracker 💪🔥 |
-| 📋 [Todo List](https://ricky-moses.github.io/React-Projects/) | React + JSON – dark and precise like Diablo’s to-do scrolls 🧾🧠 |
+| ⚛️ [React Projects:](https://ricky-moses.github.io/React-Projects/) | Powered by Axios, Styled Components, and JSON, blending real-time data, sleek UI, and organized logic like Veldora, Milim, and Diablo in perfect sync ⚡🔥🧠 |
 
 ### Fun Fact 😁 ###
 > [!Caution]
