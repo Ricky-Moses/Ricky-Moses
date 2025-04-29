@@ -29,8 +29,8 @@ Hey there! I’m **Ricky Moses🤗**, a passionate web developer who codes with 
 ### My Quest Logs 🏹 (Projects) ###
 | 🧪 Quest | 📝 Quest Information |
 |---------|----------------------|
-| ☕ [Coffee Bar Website](https://ricky-moses.github.io/Coffee-Shop-React/) | Built with React + Bootstrap – as chill as Rimuru’s Tempest Cafe ☕🏞️ |
 | ⚛️ [React Projects:](https://ricky-moses.github.io/React-Projects/) | Powered by Axios, Styled Components, and JSON, blending real-time data, sleek UI, and organized logic like Veldora, Milim, and Diablo in perfect sync ⚡🔥🧠 |
+| 📃 [Vercel Todo-List:](https://vercel-todo-list-sepia.vercel.app) | A swift ninja of productivity—adding, editing, and slaying tasks with precision like Levi, Itachi, and Gojou in silent sync ⚔️🌀💼 |
 
 ### Fun Fact 😁 ###
 > [!Caution]
