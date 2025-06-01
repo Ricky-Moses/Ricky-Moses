@@ -45,7 +45,7 @@ Hey there! I’m **Ricky Moses🤗**, a passionate web developer who codes with 
 > ***—Ricky, The One Who Engineers In Silence And Ships With Impact***
 
 ### Let's Connect 🤝 ###
-- 🖇️ **Portfolio**: [Step into my domain — where every pixel tells a story](https://ricky-moses.github.io/Ricky-Portfolio/)
+- 🖇️ **Portfolio**: [Step into my domain — where every pixel tells a story](vercel-portfolio-umber.vercel.app)
 - 💼 **Linkedin**: [Let’s network like ninjas planning the final arc](https://www.linkedin.com/in/rickymoses08/)
 - 📧 **Email**: Summon me with your message 🔫(rickymoses08122003@gmail.com)
 
