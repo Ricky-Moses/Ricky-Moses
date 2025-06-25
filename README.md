@@ -31,6 +31,7 @@ Hey there! I’m **Ricky Moses🤗**, a passionate web developer who codes with 
 |---------|----------------------|
 | ⚛️ [React Projects:](https://ricky-moses.github.io/React-Projects/) | Powered by Axios, Styled Components, and JSON, blending real-time data, sleek UI, and organized logic like Veldora, Milim, and Diablo in perfect sync ⚡🔥🧠 |
 | 📃 [Vercel Todo-List:](https://vercel-todo-list-sepia.vercel.app) | A swift ninja of productivity—adding, editing, and slaying tasks with precision like Levi, Itachi, and Gojou in silent sync ⚔️🌀💼 |
+| 📃 [Vercel E-commerce:](https://velvetclaw.vercel.app/) | Fueled by MongoDB, Express, and JWT, this e-commerce beast fuses secure auth, dynamic products, and lightning-fast UX—like Rimuru running a shopping empire with Shion and Benimaru on dev duty 🛒🔥💻 |
 
 ### Fun Fact 😁 ###
 > [!Caution]
